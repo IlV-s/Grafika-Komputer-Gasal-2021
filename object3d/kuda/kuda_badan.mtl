@@ -1,0 +1,14 @@
+# Blender MTL File: 'semuanya.blend'
+# Material Count: 1
+
+newmtl Material_HorseMain4k00.png
+Ns 21.568629
+Ka 1.000000 1.000000 1.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.060000 0.060000 0.060000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump LD_HorseRtime02.blend\\HorseMain2k00.png
+map_Kd D:\\Kuliah\\Semester 5\\Grafika Komputer\\Blender objek\\obj\\kuda\\horse\\HorseMain2k00.jpg

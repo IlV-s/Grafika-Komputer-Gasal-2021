@@ -1,0 +1,15 @@
+# Blender MTL File: 'semuanya.blend'
+# Material Count: 1
+
+newmtl wire_229166215
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd D:\\Kuliah\\Semester 5\\Grafika Komputer\\Blender objek\\obj\\burung\\open3dmodel (1).com_model\\Model_D0901B73\\color.jpg
+map_Ks C:\\Users\\MSI-PC\\Downloads\\Compressed\\(26347)\\open3dmodel (1).com_model\\Model_D0901B73\\sp.jpg

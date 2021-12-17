@@ -1,0 +1,37 @@
+# Blender MTL File: 'semuanya.blend'
+# Material Count: 3
+
+newmtl Ele_Tuskh
+Ns 40.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.960800 0.929400 0.843100
+Ks 0.390000 0.390000 0.390000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\MSI-PC\\Downloads\\Compressed\\2596_open3dmodel\\Elephant\\maps\\EleTusk.jpg
+map_Kd D:\\Kuliah\\Semester 5\\Grafika Komputer\\Blender objek\\obj\\gajah\\Elephant\\ELETUSK.JPG
+
+newmtl ElepEYE
+Ns 70.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.007800 0.007800 0.011800
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\Kuliah\\Semester 5\\Grafika Komputer\\Blender objek\\obj\\gajah\\Elephant\\LAKEREM.JPG
+
+newmtl ElphSkin
+Ns 47.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.370000 0.370000 0.370000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\MSI-PC\\Downloads\\Compressed\\2596_open3dmodel\\Elephant\\maps\\ElphSkin.jpg
+map_Kd D:\\Kuliah\\Semester 5\\Grafika Komputer\\Blender objek\\obj\\gajah\\Elephant\\ELPHSKIN.JPG

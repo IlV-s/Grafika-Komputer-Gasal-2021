@@ -1,0 +1,14 @@
+# Blender MTL File: 'semuanya.blend'
+# Material Count: 1
+
+newmtl Material.003_Hair12Main2k.png
+Ns 15.686281
+Ka 1.000000 1.000000 1.000000
+Kd 0.440000 0.440000 0.440000
+Ks 0.040000 0.040000 0.040000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump LD_HorseRtime02.blend\\Hair12Main2k.png
+map_Kd D:\\Kuliah\\Semester 5\\Grafika Komputer\\Blender objek\\obj\\kuda\\horse\\Hair12Main2k.jpg
